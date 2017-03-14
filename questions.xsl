@@ -6,10 +6,23 @@
 <html>
 <head>
 <style rel="stylesheet" type="text/css">
+
 table{width:100%;border:1px solid}
-th{background-color:#cdd8f6}
+
+th{background-color:#cdd8f6;background: url(img/fondo_th.png) no-repeat center center fixed; 
+
+			-webkit-background-size: cover;
+
+			-moz-background-size: cover;
+
+			-o-background-size: cover;
+
+			background-size: cover;}
+
 td,tr,th{border:1px solid;padding:2px;vertical-align:top}
+
 span{color:green;padding-left:5px}
+
 </style>
 </head>
 <body>
