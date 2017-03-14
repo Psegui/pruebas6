@@ -9,7 +9,7 @@
 
 table{width:100%;border:1px solid}
 
-th{background-color:#cdd8f6;background: url(img/fondo_th.png) no-repeat center center fixed; 
+th{background-color:#cdd8f6;background-image: url(img/fondo_th.png) no-repeat center center fixed; 
 
 			-webkit-background-size: cover;
 
